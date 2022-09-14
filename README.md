@@ -1,1 +1,1 @@
-Codewars - 6kyu solutions :-)
+Codewars - 5kyu solutions :-)
